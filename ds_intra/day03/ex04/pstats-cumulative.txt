@@ -1,0 +1,3 @@
+Welcome to the profile statistics browser.
+pstats-cumulative.temp% 
+Goodbye.
